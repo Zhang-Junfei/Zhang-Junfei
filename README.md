@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhang-Junfei
+- 👋 Hi, I’m FOZAG
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me zhang952795@outlook.com
